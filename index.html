@@ -39,7 +39,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#">Start Bootstrap</a>
+                <a class="navbar-brand" href="#">Home</a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -57,16 +57,6 @@
     <!-- Page Content -->
     <div class="container">
 
-        <!-- Page Heading -->
-        <div class="row">
-            <div class="col-lg-12">
-                <!--<h1 class="page-header">Page Heading
-                    <small>Secondary Text</small>
-                </h1>-->
-            </div>
-        </div>
-        <!-- /.row -->
-
         <!-- Project One -->
         <div class="row">
             <div class="col-md-5">
@@ -74,7 +64,7 @@
                     <img class="img-responsive" src="./images/oop-udacity/oop-udacity.png" alt="">
                 </a>
             </div>
-            <div class="col-md-5">
+            <div class="col-md-5 project-content">
                 <h3>Classic-Arcade-Game</h3>
                 <h4>Project was part of Udacity Object-Oriented JavaScript Course</h4>
                 <p>Intermediate level course designed to teach web developers how to utilize the various object-oriented programming features within JavaScript, and more importantly, how to write reusable and maintainable libraries that will make your life easier.</p>
@@ -88,7 +78,7 @@
 
         <!-- Project Two -->
         <!--<div class="row">
-            <div class="col-md-7">
+            <div class="col-md-5">
                 <a href="#">
                     <img class="img-responsive" src="http://placehold.it/700x300" alt="">
                 </a>
@@ -97,24 +87,6 @@
                 <h3>Project Two</h3>
                 <h4>Subheading</h4>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut, odit velit cumque vero doloremque repellendus distinctio maiores rem expedita a nam vitae modi quidem similique ducimus! Velit, esse totam tempore.</p>
-                <a class="btn btn-primary" href="#">View Project <span class="glyphicon glyphicon-chevron-right"></span></a>
-            </div>
-        </div>-->
-        <!-- /.row -->
-
-        <!--<hr>-->
-
-        <!-- Project Three -->
-        <!--<div class="row">
-            <div class="col-md-7">
-                <a href="#">
-                    <img class="img-responsive" src="http://placehold.it/700x300" alt="">
-                </a>
-            </div>
-            <div class="col-md-5">
-                <h3>Project Three</h3>
-                <h4>Subheading</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis, temporibus, dolores, at, praesentium ut unde repudiandae voluptatum sit ab debitis suscipit fugiat natus velit excepturi amet commodi deleniti alias possimus!</p>
                 <a class="btn btn-primary" href="#">View Project <span class="glyphicon glyphicon-chevron-right"></span></a>
             </div>
         </div>-->
@@ -165,7 +137,7 @@
             </div>
             <!-- /.row -->
         </footer>
-
+    <div id="disqus_thread"></div>    
     </div>
     <!-- /.container -->
 
@@ -175,6 +147,30 @@
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
 
+    
+    <script>
+
+        /**
+        *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+        *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+        */
+        
+        var disqus_config = function () {
+            this.page.url = "https://rajesh-bhat.github.io";  // Replace PAGE_URL with your page's canonical URL variable
+            this.page.identifier = "/index.html"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+        };
+        
+        (function() { // DON'T EDIT BELOW THIS LINE
+            var d = document, s = d.createElement('script');
+            s.src = 'https://rajesh-bhat.disqus.com/embed.js';
+            s.setAttribute('data-timestamp', +new Date());
+            (d.head || d.body).appendChild(s);
+        })();
+
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                                
+    <script id="dsq-count-scr" src="//rajesh-bhat.disqus.com/count.js" async></script>
 </body>
 
 </html>
