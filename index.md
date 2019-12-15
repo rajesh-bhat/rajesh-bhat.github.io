@@ -1,18 +1,18 @@
 I am Rajesh Shreedhar Bhat, currently working as a *Data Scientist* at [Walmart Labs](https://www.walmartlabs.com/), primarily focused on building reusable machine/deep learning solutions that can be used across various business domains at Walmart.
 
-## Experience
-**Walmart Labs**
+## Work Experience
+### Walmart Labs
 * Data Scientist (Aug 2018 - Present)
-* **Text extraction from product images**:CRNN Network with CTC loss trained on synthetically generated image data using Wal-mart product descriptions.
-* **Sentiment Analysis & Topic modelling** on review text using CNN, Bi-LSTM networks and Transfer Learning techniques.
+    * **Text extraction from product images**:CRNN Network with CTC loss trained on synthetically generated image data using Wal-mart product descriptions.
+    * **Sentiment Analysis & Topic modelling** on review text using CNN, Bi-LSTM networks and Transfer Learning techniques.
 
 * Statistical Analyst (Aug 2016 - July 2018)
-* **Attribute extraction** from product descriptions & titles to fill the missing attributes in product catalog using a sequence to sequence models with word and character embeddings.
-* Wal-bot: a framework was developed for building **conversational chatbots**.
+    * **Attribute extraction** from product descriptions & titles to fill the missing attributes in product catalog using a sequence to sequence models with word and character embeddings.
+    * Wal-bot: a framework was developed for building **conversational chatbots**.
 
 * Data Science Intern (Jan 2016 - Jun 2016)
-* Worked on **Face Recognition** POC using Siamese Neural Network.
-* Visualizing analytics-driven solutions using technologies like **D3.js, NVD3 & Angular JS**
+    * Worked on **Face Recognition** POC using Siamese Neural Network.
+    * Visualizing analytics-driven solutions using technologies like **D3.js, NVD3 & Angular JS**
 
 ## Patents
 * **[US Patent, Walmart Ref.4909US01]** - *End to End Attribute Extraction from Product Images* by **Rajesh Shreedhar Bhat**, Sumanth Prabhu, Bodhisattwa Majumder, Vignesh Selvaraj, Anirban Chatterjee, Gayatri Pal. 2018.
