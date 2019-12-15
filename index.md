@@ -15,7 +15,7 @@ I am Rajesh Shreedhar Bhat, currently working as a *Data Scientist* at [Walmart 
     * Visualizing analytics-driven solutions using technologies like D3.js, NVD3 & Angular JS
 
 ## Patents
-* **[US Patent, Walmart Ref.4909US01]** - *End to End Attribute Extraction from Product Images* 
+* **[US Patent, Walmart Ref.4909US01]** - *End to End Attribute Extraction from Product Images*, [Link](https://patentimages.storage.googleapis.com/64/f5/60/3c233403b7b163/US20190311210A1.pdf) 
 
 * **[US Patent, Walmart Ref.4210US01]** - *In-store targeted advertisement system*
 
