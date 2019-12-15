@@ -2,17 +2,17 @@ I am Rajesh Shreedhar Bhat, currently working as a *Data Scientist* at [Walmart 
 
 ## Work Experience
 ### Walmart Labs
-* Data Scientist (Aug 2018 - Present)
-    * **Text extraction from product images**:CRNN Network with CTC loss trained on synthetically generated image data using Wal-mart product descriptions.
-    * **Sentiment Analysis & Topic modelling** on review text using CNN, Bi-LSTM networks and Transfer Learning techniques.
+* **Data Scientist (Aug 2018 - Present)**
+    * Text extraction from product images:CRNN Network with CTC loss trained on synthetically generated image data using Wal-mart product descriptions.
+    * Sentiment Analysis & Topic modelling on review text using CNN, Bi-LSTM networks and Transfer Learning techniques.
 
-* Statistical Analyst (Aug 2016 - July 2018)
-    * **Attribute extraction** from product descriptions & titles to fill the missing attributes in product catalog using a sequence to sequence models with word and character embeddings.
-    * Wal-bot: a framework was developed for building **conversational chatbots**.
+* **Statistical Analyst (Aug 2016 - July 2018)**
+    * Attribute extraction from product descriptions & titles to fill the missing attributes in product catalog using a sequence to sequence models with word and character embeddings.
+    * Wal-bot: a framework was developed for building conversational chatbots.
 
-* Data Science Intern (Jan 2016 - Jun 2016)
-    * Worked on **Face Recognition** POC using Siamese Neural Network.
-    * Visualizing analytics-driven solutions using technologies like **D3.js, NVD3 & Angular JS**
+* **Data Science Intern (Jan 2016 - Jun 2016)**
+    * Worked on Face Recognition POC using Siamese Neural Network.
+    * Visualizing analytics-driven solutions using technologies like D3.js, NVD3 & Angular JS
 
 ## Patents
 * **[US Patent, Walmart Ref.4909US01]** - *End to End Attribute Extraction from Product Images* 
@@ -34,7 +34,7 @@ I am Rajesh Shreedhar Bhat, currently working as a *Data Scientist* at [Walmart 
 * [*Why not Mean Squared Error(MSE) as a loss function for Logistic Regression?*](https://towardsdatascience.com/why-not-mse-as-a-loss-function-for-logistic-regression-589816b5e03c) published in *Towards Data Science*.
 Authors: *Rajesh Shreedhar Bhat*, Souradip Chakraborty 
 
-* **Rajesh Shreedhar Bhat** [*First silver medal on Kaggle*](https://towardsdatascience.com/first-silver-medal-on-kaggle-d41819182ec9) published in *Towards Data Science*.
+* [*First silver medal on Kaggle*](https://towardsdatascience.com/first-silver-medal-on-kaggle-d41819182ec9) published in *Towards Data Science*.
 
 
 ## Teachings and Invited Talks
