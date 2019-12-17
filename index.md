@@ -1,5 +1,13 @@
 I am Rajesh Shreedhar Bhat, currently working as a *Data Scientist at Walmart Labs*, primarily focused on building reusable machine/deep learning solutions that can be used across various business domains at Walmart.
 
+## Education
+### Arizona State University, Online (May 2019 - 2021)
+* MS in Computer Science with ML Specialization.
+
+### PES Institue of Technology, Bengaluru (Aug. 2012 - May. 2016)
+* B.E in Information Science and Engineering.
+* Department Rank 7 - GOLD Medalist - ISE Branch with CGPA 9.44/10.
+
 ## Work Experience
 ### Walmart Labs, Bengaluru
 * **Data Scientist (Aug. 2018 - Present)**
@@ -26,24 +34,24 @@ ASONAM conference.
 * Worked on Spell Correction algorithm using NLP techniques.
 
 ## Publications & Posters
-* [2018] [*Upcycle Your OCR: Reusing OCRs for Post-OCR Text Correction in Romanised Sanskrit*](http://aclweb.org/anthology/K18-1034), published in Conference on Computational Natural Language Learning(CONLL), Belgium.</br>
+* [2018] [*Upcycle Your OCR: Reusing OCRs for Post-OCR Text Correction in Romanised Sanskrit*](http://aclweb.org/anthology/K18-1034), published in Conference on Computational Natural Language Learning(CONLL), Belgium.
 Authors: Amrit Krishna, Bodhisattwa Majumder, *Rajesh Shreedhar Bhat*, Pawan Goyal. 
 
-* [2015] [*Presence of an Ecosystem: a Catalyst in the Knowledge Building Process in Crowdsourced Annotation Environments*](http://dl.acm.org/citation.cfm?id=2809410), published in IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining(ASONAM), Paris. </br>
+* [2015] [*Presence of an Ecosystem: a Catalyst in the Knowledge Building Process in Crowdsourced Annotation Environments*](http://dl.acm.org/citation.cfm?id=2809410), published in IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining(ASONAM), Paris.
 Authors: Anamika Chhabra, Sudarshan Iyengar, Poonam Saini, *Rajesh Shreedhar Bhat* 
 
 ## Invited Talks & Workshops conducted
-* [Nov. 2019] **Speaker at Kaggle Days Meetup(Senior Track) #3, Bengaluru**<br/>
+* [Nov. 2019] *Speaker at Kaggle Days Meetup(Senior Track) #3, Bengaluru* <br/>
 Topic: [Attention Models in NLP & Vision](https://www.linkedin.com/posts/designerhv_kaggledays-kaggledaysbangalore-datascience-activity-6606514045027745792-ufb6)
 
-* [Nov. 2019] **Speaker at Data Hack Summit**, India's Largest Applied Artificial Intelligence & Machine Learning Conference organized by Analytics Vidhya.<br/> 
-Topic: [Image Captioning with Attention models](https://www.analyticsvidhya.com/datahack-summit-2019/schedule/hack-session-image-captioning-using-attention-models)<br/>
-Github link: https://github.com/rajesh-bhat/dhs_summit_2019_image_captioning
+* [Nov. 2019] *Speaker at Data Hack Summit*, India's Largest Applied Artificial Intelligence & Machine Learning Conference organized by Analytics Vidhya. <br/> 
+Topic: [Image Captioning with Attention models](https://www.analyticsvidhya.com/datahack-summit-2019/schedule/hack-session-image-captioning-using-attention-models) <br/>
+[Github Link](https://github.com/rajesh-bhat/dhs_summit_2019_image_captioning)
 
-* [Oct. 2019] **Speaker at Kaggle Days Meetup(Senior Track) #2, Bengaluru**<br/>
+* [Oct. 2019] *Speaker at Kaggle Days Meetup(Senior Track) #2, Bengaluru* <br/>
 Topic: [Text extraction from Product Images](https://www.linkedin.com/posts/rajeshshreedhar_kaggle-kaggledays-meetup-activity-6589216549201117184-tqfT)
 
-* [Aug. 2019] *Panelist at Kaggle Days Meetup(Senior Track) #1, Bengaluru*<br/>
+* [Aug. 2019] *Panelist at Kaggle Days Meetup(Senior Track) #1, Bengaluru* <br/>
 Topic: [Kaggle Journey and Approaching Kaggle Competitions](https://www.linkedin.com/posts/rajeshshreedhar_kaggle-kaggledays-meetup-activity-6571065779024953344-57s0)
 
 * [Jun. 2019] [*Conducted Deep Learning Workshop*](https://www.linkedin.com/posts/rajeshshreedhar_workshop-ai-iiit-activity-6548188865239322624-hRhl), part of faculty development program at IIIT Kancheepuram, Chennai.
@@ -62,13 +70,13 @@ Topic: [Kaggle Journey and Approaching Kaggle Competitions](https://www.linkedin
 * **[US Patent, Walmart Ref.5258US01]** - *Systems and methods for detecting offensive text in images.*
 
 ## Medium Blogs
-* [*Why not Mean Squared Error(MSE) as a loss function for Logistic Regression?*](https://towardsdatascience.com/why-not-mse-as-a-loss-function-for-logistic-regression-589816b5e03c) published in *Towards Data Science*.<br/>
+* [*Why not Mean Squared Error(MSE) as a loss function for Logistic Regression?*](https://towardsdatascience.com/why-not-mse-as-a-loss-function-for-logistic-regression-589816b5e03c) published in *Towards Data Science.*
 Authors: *Rajesh Shreedhar Bhat*, Souradip Chakraborty 
 
 * [*First silver medal on Kaggle*](https://towardsdatascience.com/first-silver-medal-on-kaggle-d41819182ec9) published in *Towards Data Science*.
 
 ## Awards and Achievements
-* [2019] *Best Poster Award*, for Extracting text from product images organized @Walmart Labs, Bengaluru
+* [2019] *Best Poster Award*, for Extracting text from product images organized @Walmart Labs, Bengaluru.
 * [2019] *Bronze Medal*🥉, [Humpback Whale Identification Challenge](https://www.kaggle.com/c/humpback-whale-identification),  Kaggle.
 * [2019] *Silver Medal*🥈, [Quora Insincere Questions Classification challenge](https://www.kaggle.com/c/quora-insincere-questions-classification), Kaggle.
 * [2018] *Spot Award*, recognition for exceptional performance, dedication & positive attitude on the job @Walmart Labs.
