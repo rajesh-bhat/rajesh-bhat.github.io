@@ -1,4 +1,4 @@
-I am Rajesh Shreedhar Bhat, currently working as a *Data Scientist* at [Walmart Labs](https://www.walmartlabs.com/), primarily focused on building reusable machine/deep learning solutions that can be used across various business domains at Walmart.
+I am Rajesh Shreedhar Bhat, currently working as a *Data Scientist at Walmart Labs*, primarily focused on building reusable machine/deep learning solutions that can be used across various business domains at Walmart.
 
 ## Work Experience
 ### Walmart Labs, Bengaluru
@@ -26,9 +26,11 @@ ASONAM conference.
 * Worked on Spell Correction algorithm using NLP techniques.
 
 ## Publications & Posters
-* Amrit Krishna, Bodhisattwa Majumder, *Rajesh Shreedhar Bhat*, Pawan Goyal [*Upcycle Your OCR: Reusing OCRs for Post-OCR Text Correction in Romanised Sanskrit*](http://aclweb.org/anthology/K18-1034), published in Conference on Computational Natural Language Learning(CONLL)' 2018.
+* [2018] [*Upcycle Your OCR: Reusing OCRs for Post-OCR Text Correction in Romanised Sanskrit*](http://aclweb.org/anthology/K18-1034), published in Conference on Computational Natural Language Learning(CONLL), Belgium.</br>
+Authors: Amrit Krishna, Bodhisattwa Majumder, *Rajesh Shreedhar Bhat*, Pawan Goyal. 
 
-* Anamika Chhabra, Sudarshan Iyengar, Poonam Saini, *Rajesh Shreedhar Bhat* [*Presence of an Ecosystem: a Catalyst in the Knowledge Building Process in Crowdsourced Annotation Environments*](http://dl.acm.org/citation.cfm?id=2809410), published in IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining(ASONAM) 2015, Paris
+* [2015] [*Presence of an Ecosystem: a Catalyst in the Knowledge Building Process in Crowdsourced Annotation Environments*](http://dl.acm.org/citation.cfm?id=2809410), published in IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining(ASONAM), Paris. </br>
+Authors: Anamika Chhabra, Sudarshan Iyengar, Poonam Saini, *Rajesh Shreedhar Bhat* 
 
 ## Invited Talks & Workshops conducted
 * [Nov. 2019] **Speaker at Kaggle Days Meetup(Senior Track) #3, Bengaluru**<br/>
@@ -46,7 +48,7 @@ Topic: [Kaggle Journey and Approaching Kaggle Competitions](https://www.linkedin
 
 * [Jun. 2019] [*Conducted Deep Learning Workshop*](https://www.linkedin.com/posts/rajeshshreedhar_workshop-ai-iiit-activity-6548188865239322624-hRhl), part of faculty development program at IIIT Kancheepuram, Chennai.
 
-* [Mar. 2018] Conducted Deep Learning workshop, @GE HealthCare, Bengaluru.
+* [Mar. 2018] Conducted Deep Learning Workshop, @GE Healthcare, Bengaluru.
 
 ## Patents
 * **[US Patent, Walmart Ref.4909US01]** - *End to End Attribute Extraction from Product Images.* [Link](https://patentimages.storage.googleapis.com/64/f5/60/3c233403b7b163/US20190311210A1.pdf) 
