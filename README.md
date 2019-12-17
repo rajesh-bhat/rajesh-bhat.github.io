@@ -1,2 +1,2 @@
 # rajesh-bhat.github.io
-github io page for profile
+Data Scientist @Walmart Labs | Kaggle Expert | Grad Student @Arizona State University.
