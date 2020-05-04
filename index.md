@@ -41,6 +41,9 @@ Authors: Amrit Krishna, Bodhisattwa Majumder, *Rajesh Shreedhar Bhat*, Pawan Goy
 Authors: Anamika Chhabra, Sudarshan Iyengar, Poonam Saini, *Rajesh Shreedhar Bhat* 
 
 ## Invited Talks & Workshops conducted
+* [Apr. 2020] *Speaker at "Ordinateur" event organized by IEEE Computer Society, GCET Gujarat* <br/>
+Topic: [Building career in Data Science](https://www.linkedin.com/feed/update/urn:li:activity:6654617251511136257)
+
 * [Nov. 2019] *Speaker at Kaggle Days Meetup(Senior Track) #3, Bengaluru* <br/>
 Topic: [Attention Models in NLP & Vision](https://www.linkedin.com/posts/designerhv_kaggledays-kaggledaysbangalore-datascience-activity-6606514045027745792-ufb6)
 
@@ -70,6 +73,11 @@ Topic: [Kaggle Journey and Approaching Kaggle Competitions](https://www.linkedin
 * **[US Patent, Walmart Ref.5258US01]** - *Systems and methods for detecting offensive text in images.*
 
 ## Medium Blogs
+* [*Resources to start your journey in Data Science*](https://towardsdatascience.com/resources-to-start-your-journey-in-data-science-bf960a8d928c) published in *Towards Data Science*.
+
+* [*Reducing the Carbon Foot Prints of CNNs at the cost of interactions-Depthwise & Pointwise Convolution*](https://towardsdatascience.com/reducing-the-carbon-foot-prints-of-cnns-at-the-cost-of-interactions-depthwise-pointwise-conv-5df850ea33a4) published in *Towards Data Science.*
+Authors: *Rajesh Shreedhar Bhat*, Souradip Chakraborty 
+
 * [*Why not Mean Squared Error(MSE) as a loss function for Logistic Regression?*](https://towardsdatascience.com/why-not-mse-as-a-loss-function-for-logistic-regression-589816b5e03c) published in *Towards Data Science.*
 Authors: *Rajesh Shreedhar Bhat*, Souradip Chakraborty 
 
