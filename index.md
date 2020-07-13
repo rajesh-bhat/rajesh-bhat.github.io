@@ -41,6 +41,14 @@ Authors: Amrit Krishna, Bodhisattwa Majumder, *Rajesh Shreedhar Bhat*, Pawan Goy
 Authors: Anamika Chhabra, Sudarshan Iyengar, Poonam Saini, *Rajesh Shreedhar Bhat* 
 
 ## Invited Talks & Workshops conducted
+* [Jun. 2020] *Speaker at "Spark AI Summit" organized by Databricks, North America chapter* <br/>
+Topic: [Text Extraction from Product Images using DL techniques](https://www.linkedin.com/posts/rajeshshreedhar_sparkaisummit-databricks-ai-activity-6682022765182222336-zPtc)
+[Github Link](https://github.com/rajesh-bhat/spark-ai-summit-2020-text-extraction)
+
+
+* [May. 2020] *Part of "Data Science Leadership series" organized by Aegis School of Data Science* <br/>
+Topic: [Detecting the presence of Covid-19 from Chest X-rays using Conv Nets](https://www.linkedin.com/posts/rajeshshreedhar_covid19-webinar-deeplearning-activity-6664036838203895808-4bP4)
+
 * [Apr. 2020] *Speaker at "Ordinateur" event organized by IEEE Computer Society, GCET Gujarat* <br/>
 Topic: [Building career in Data Science](https://www.linkedin.com/feed/update/urn:li:activity:6654617251511136257)
 
