@@ -36,6 +36,9 @@ ASONAM conference.
 * Worked on Spell Correction algorithm using NLP techniques.
 
 ## Publications & Posters
+* [Sep 2020] *2 of my works accepted in ECML PKDD Industry Track* <br/>
+Topic: [Text Extraction from Product Images, Finding Data Scientist challenges in Machine Learning Platforms](https://ecmlpkdd2020.net/programme/industrytrack/)
+
 * [2018] [*Upcycle Your OCR: Reusing OCRs for Post-OCR Text Correction in Romanised Sanskrit*](http://aclweb.org/anthology/K18-1034), published in Conference on Computational Natural Language Learning(CONLL), Belgium.
 Authors: Amrit Krishna, Bodhisattwa Majumder, *Rajesh Shreedhar Bhat*, Pawan Goyal. 
 
@@ -43,32 +46,26 @@ Authors: Amrit Krishna, Bodhisattwa Majumder, *Rajesh Shreedhar Bhat*, Pawan Goy
 Authors: Anamika Chhabra, Sudarshan Iyengar, Poonam Saini, *Rajesh Shreedhar Bhat* 
 
 ## Invited Talks & Workshops conducted
-Speaker at Seoul AI Summit :  December
-
 * [Dec 2020] *Speaker at Seoul AI Summit* <br/>
 Topic:[Conversational AI using transformer models](https://aisummit.co.kr/ais-2020-speaker_rajesh/?lang=en)
 
-
- * [Dec 2020] * Speaker at ODSC India & APAC chapter* <br/>
+ * [Dec 2020] *Speaker at ODSC India & APAC chapter* <br/>
 Topic:[Text Extraction from Images using Deep learning tehcniques](https://odsc.com/speakers/text-extraction-from-images-using-deep-learning-techniques/)
 
-* [Nov 2020] * Speaker at Data AI Summit, Europe chapter organised by Databricks * <br/>
+* [Nov 2020] *Speaker at Data AI Summit, Europe chapter organised by Databricks* <br/>
 Topic:[Detecting and Recognising highly arbitrary shaped texts from Product Images](https://databricks.com/session_eu20/detecting-and-recognising-highly-arbitrary-shaped-texts-from-product-images) 
+[Github Link](https://github.com/rajesh-bhat/data-ai-summit-2020)
 
-* [Oct 2020] * Speaker at AI Summit Silicon Valley * <br/>
-Topic:[Extracting text from Product Images](https://tmt.knect365.com/ai-summit-san-francisco/speakers/rajesh-bhat/)
+* [Oct 2020] *Speaker at AI Summit Silicon Valley* <br/>
+Topic:[Extracting text from Product Images](https://tmt.knect365.com/ai-summit-san-francisco/speakers/rajesh-bhat/) 
 
-* [Sep 2020] * 2 talks accepted in ECML PKDD Industry Track * <br/>
-Topic: [Text Extraction from Product Images, Finding Data Scientist challenges in Machine Learning Platforms](https://ecmlpkdd2020.net/programme/industrytrack/)
- 
-
-* [August 2020] *Speaker at Kaggle Days Delhi, chapter* <br/>
+* [August 2020] *Speaker at Kaggle Days Delhi, Chapter* <br/>
 Topic: [Self-supervised Visual Feature Learning with Deep Neural Networks](https://www.youtube.com/watch?v=OW0juxFbgzo)
+[Github Link](https://github.com/rajesh-bhat/self-supervised-visual-representation-learning)
 
 * [Jun. 2020] *Speaker at "Spark AI Summit" organized by Databricks, North America chapter* <br/>
 Topic: [Text Extraction from Product Images using DL techniques](https://www.linkedin.com/posts/rajeshshreedhar_sparkaisummit-databricks-ai-activity-6682022765182222336-zPtc)
 [Github Link](https://github.com/rajesh-bhat/spark-ai-summit-2020-text-extraction)
-
 
 * [May. 2020] *Part of "Data Science Leadership series" organized by Aegis School of Data Science* <br/>
 Topic: [Detecting the presence of Covid-19 from Chest X-rays using Conv Nets](https://www.linkedin.com/posts/rajeshshreedhar_covid19-webinar-deeplearning-activity-6664036838203895808-4bP4)
@@ -96,7 +93,7 @@ Topic: [Kaggle Journey and Approaching Kaggle Competitions](https://www.linkedin
 ## Patents
 * **[US Patent, Walmart Ref.4909US01]** - *End to End Attribute Extraction from Product Images.* [Link](https://patentimages.storage.googleapis.com/64/f5/60/3c233403b7b163/US20190311210A1.pdf) 
 
-* **[US Patent, Walmart Ref.4210US01]** - *In-store targeted advertisement system.*
+* **[US Patent, Walmart Ref.4210US01]** - *In-store targeted advertisement system.* [Link](https://patents.google.com/patent/US20190378171A1/en) 
 
 * **[US Patent, Walmart Ref.5008US01]** - *Generating Customized Alerts with Computer Vision and Machine Learning.*
 
@@ -104,16 +101,20 @@ Topic: [Kaggle Journey and Approaching Kaggle Competitions](https://www.linkedin
 
 * **[US Patent, Walmart Ref.5258US01]** - *Systems and methods for detecting offensive text in images.*
 
-## Medium Blogs
-* [*Resources to start your journey in Data Science*](https://towardsdatascience.com/resources-to-start-your-journey-in-data-science-bf960a8d928c) published in *Towards Data Science*.
+## Blogs
+* [*Text Recognition with CRNN-CTC networks*](https://wandb.ai/authors/text-recognition-crnn-ctc/reports/Text-Recognition-with-CRNN-CTC-Network--VmlldzoxNTI5NDI) published at *Weights and Biases*.
 
-* [*Reducing the Carbon Foot Prints of CNNs at the cost of interactions-Depthwise & Pointwise Convolution*](https://towardsdatascience.com/reducing-the-carbon-foot-prints-of-cnns-at-the-cost-of-interactions-depthwise-pointwise-conv-5df850ea33a4) published in *Towards Data Science.*
+* [*Generate meaningful captions for images with Attention Models*](https://wandb.ai/authors/image-captioning/reports/Generate-Meaningful-Captions-for-Images-with-Attention-Models--VmlldzoxNzg0ODA) published at *Weights and Biases*.
+
+* [*Resources to start your journey in Data Science*](https://towardsdatascience.com/resources-to-start-your-journey-in-data-science-bf960a8d928c) published at *Towards Data Science*.
+
+* [*Reducing the Carbon Foot Prints of CNNs at the cost of interactions-Depthwise & Pointwise Convolution*](https://towardsdatascience.com/reducing-the-carbon-foot-prints-of-cnns-at-the-cost-of-interactions-depthwise-pointwise-conv-5df850ea33a4) published at *Towards Data Science.*
 Authors: *Rajesh Shreedhar Bhat*, Souradip Chakraborty 
 
-* [*Why not Mean Squared Error(MSE) as a loss function for Logistic Regression?*](https://towardsdatascience.com/why-not-mse-as-a-loss-function-for-logistic-regression-589816b5e03c) published in *Towards Data Science.*
+* [*Why not Mean Squared Error(MSE) as a loss function for Logistic Regression?*](https://towardsdatascience.com/why-not-mse-as-a-loss-function-for-logistic-regression-589816b5e03c) published at *Towards Data Science.*
 Authors: *Rajesh Shreedhar Bhat*, Souradip Chakraborty 
 
-* [*First silver medal on Kaggle*](https://towardsdatascience.com/first-silver-medal-on-kaggle-d41819182ec9) published in *Towards Data Science*.
+* [*First silver medal on Kaggle*](https://towardsdatascience.com/first-silver-medal-on-kaggle-d41819182ec9) published at *Towards Data Science*.
 
 ## Awards and Achievements
 * [2019] *Best Poster Award*, for Extracting text from product images organized @Walmart Labs, Bengaluru.
