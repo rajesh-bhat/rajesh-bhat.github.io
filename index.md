@@ -1,4 +1,3 @@
-I am Rajesh Shreedhar Bhat, currently working as a *Data Scientist at Walmart Labs*, primarily focused on building reusable machine/deep learning solutions that can be used across various business domains at Walmart.
 
 ## Education
 ### Arizona State University, Online (May 2019 - 2021)
@@ -10,9 +9,12 @@ I am Rajesh Shreedhar Bhat, currently working as a *Data Scientist at Walmart La
 
 ## Work Experience
 ### Walmart Labs, Bengaluru
-* **Data Scientist (Aug. 2018 - Present)**
-    * Text extraction from product images:CRNN Network with CTC loss trained on synthetically generated image data using Wal-mart product descriptions.
-    * Sentiment Analysis & Topic modelling on review text using CNN, Bi-LSTM networks and Transfer Learning techniques.
+* **Senior Data Scientist (Sep. 2020 - Present)**
+   * Working in video analytics domain using traditional and latest computer vision techniques. 
+
+* **Data Scientist (Aug. 2018 - Aug. 2020)**
+    * Text extraction from product images:STN-CNN-LSTM-Attention network trained on synthetically generated image data using Wal-mart product descriptions.
+    * Topic modelling & Sentiment Analysis on review text using CNN, Bi-LSTM networks and Transfer Learning techniques.
 
 * **Statistical Analyst (Aug. 2016 - July. 2018)**
     * Attribute extraction from product descriptions & titles to fill the missing attributes in product catalog using a sequence to sequence models with word and character embeddings.
@@ -41,6 +43,28 @@ Authors: Amrit Krishna, Bodhisattwa Majumder, *Rajesh Shreedhar Bhat*, Pawan Goy
 Authors: Anamika Chhabra, Sudarshan Iyengar, Poonam Saini, *Rajesh Shreedhar Bhat* 
 
 ## Invited Talks & Workshops conducted
+Speaker at Seoul AI Summit :  December
+
+* [Dec 2020] *Speaker at Seoul AI Summit* <br/>
+Topic:[Conversational AI using transformer models](https://aisummit.co.kr/ais-2020-speaker_rajesh/?lang=en)
+
+
+ * [Dec 2020] * Speaker at ODSC India & APAC chapter* <br/>
+Topic:[Text Extraction from Images using Deep learning tehcniques](https://odsc.com/speakers/text-extraction-from-images-using-deep-learning-techniques/)
+
+* [Nov 2020] * Speaker at Data AI Summit, Europe chapter organised by Databricks * <br/>
+Topic:[Detecting and Recognising highly arbitrary shaped texts from Product Images](https://databricks.com/session_eu20/detecting-and-recognising-highly-arbitrary-shaped-texts-from-product-images) 
+
+* [Oct 2020] * Speaker at AI Summit Silicon Valley * <br/>
+Topic:[Extracting text from Product Images](https://tmt.knect365.com/ai-summit-san-francisco/speakers/rajesh-bhat/)
+
+* [Sep 2020] * 2 talks accepted in ECML PKDD Industry Track * <br/>
+Topic: [Text Extraction from Product Images, Finding Data Scientist challenges in Machine Learning Platforms](https://ecmlpkdd2020.net/programme/industrytrack/)
+ 
+
+* [August 2020] *Speaker at Kaggle Days Delhi, chapter* <br/>
+Topic: [Self-supervised Visual Feature Learning with Deep Neural Networks](https://www.youtube.com/watch?v=OW0juxFbgzo)
+
 * [Jun. 2020] *Speaker at "Spark AI Summit" organized by Databricks, North America chapter* <br/>
 Topic: [Text Extraction from Product Images using DL techniques](https://www.linkedin.com/posts/rajeshshreedhar_sparkaisummit-databricks-ai-activity-6682022765182222336-zPtc)
 [Github Link](https://github.com/rajesh-bhat/spark-ai-summit-2020-text-extraction)
