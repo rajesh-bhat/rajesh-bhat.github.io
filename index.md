@@ -1,6 +1,6 @@
 
 ## Education
-### Arizona State University, Online (May 2019 - 2021)
+### Arizona State University, Online (May 2019 - July 2021)
 * MS in Computer Science with ML Specialization.
 
 ### PES Institue of Technology, Bengaluru (Aug. 2012 - May. 2016)
@@ -92,41 +92,32 @@ Topic: [Kaggle Journey and Approaching Kaggle Competitions](https://www.linkedin
 
 ## Patents
 * **[US Patent, Walmart Ref.4909US01]** - *End to End Attribute Extraction from Product Images.* [Link](https://patentimages.storage.googleapis.com/64/f5/60/3c233403b7b163/US20190311210A1.pdf) 
-
 * **[US Patent, Walmart Ref.4210US01]** - *In-store targeted advertisement system.* [Link](https://patents.google.com/patent/US20190378171A1/en) 
-
 * **[US Patent, Walmart Ref.5008US01]** - *Generating Customized Alerts with Computer Vision and Machine Learning.*
-
 * **[US Patent, Walmart Ref.5118US01]** - *System and Method For Automated Electronic Catalogue Management and Image Quality Assessment.*
-
 * **[US Patent, Walmart Ref.5258US01]** - *Systems and methods for detecting offensive text in images.*
 
 ## Blogs
 * [*Text Recognition with CRNN-CTC networks*](https://wandb.ai/authors/text-recognition-crnn-ctc/reports/Text-Recognition-with-CRNN-CTC-Network--VmlldzoxNTI5NDI) published at *Weights and Biases*.
-
 * [*Generate meaningful captions for images with Attention Models*](https://wandb.ai/authors/image-captioning/reports/Generate-Meaningful-Captions-for-Images-with-Attention-Models--VmlldzoxNzg0ODA) published at *Weights and Biases*.
-
 * [*Resources to start your journey in Data Science*](https://towardsdatascience.com/resources-to-start-your-journey-in-data-science-bf960a8d928c) published at *Towards Data Science*.
-
 * [*Reducing the Carbon Foot Prints of CNNs at the cost of interactions-Depthwise & Pointwise Convolution*](https://towardsdatascience.com/reducing-the-carbon-foot-prints-of-cnns-at-the-cost-of-interactions-depthwise-pointwise-conv-5df850ea33a4) published at *Towards Data Science.*
 Authors: *Rajesh Shreedhar Bhat*, Souradip Chakraborty 
-
 * [*Why not Mean Squared Error(MSE) as a loss function for Logistic Regression?*](https://towardsdatascience.com/why-not-mse-as-a-loss-function-for-logistic-regression-589816b5e03c) published at *Towards Data Science.*
 Authors: *Rajesh Shreedhar Bhat*, Souradip Chakraborty 
-
 * [*First silver medal on Kaggle*](https://towardsdatascience.com/first-silver-medal-on-kaggle-d41819182ec9) published at *Towards Data Science*.
 
 ## Awards and Achievements
-* [2019] *Best Poster Award*, for Extracting text from product images organized @Walmart Labs, Bengaluru.
-* [2019] *Bronze Medal*🥉, [Humpback Whale Identification Challenge](https://www.kaggle.com/c/humpback-whale-identification),  Kaggle.
-* [2019] *Silver Medal*🥈, [Quora Insincere Questions Classification challenge](https://www.kaggle.com/c/quora-insincere-questions-classification), Kaggle.
-* [2018] *Spot Award*, recognition for exceptional performance, dedication & positive attitude on the job @Walmart Labs.
-* [2018] *Bronze Medal*, [Quick, Draw! Google Doodle Recognition challenge](https://www.kaggle.com/c/quickdraw-doodle-recognition), Kaggle.
-* [2018] *Top 1%*, WNS Analytics Wizard challenge hosted on Analytics Vidhya.
-* [2018] *Runner Up*, Walmart Global Hackathon.
-* [2018] *Silver Medal*🥈, [Toxic Comment classification challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge), Kaggle.
-* [2018] *Silver Medal*🥈, [IEEE’s Signal Processing Society - Camera Model Identification](https://www.kaggle.com/c/sp-society-camera-model-identification), Kaggle.
-* [2017] *Winner*, Synehack 201.7 Synechrone.
-* [2017] *Spot Award*, recognition for exceptional performance, dedication & positive attitude on the job Walmart Labs.
-* [2017] *Winner*, GE Health-Hack - Video analytics theme GE Healthcare.
-* [2015] *Summer Research Fellowship*, offered by IAS, IISc, INSA through Summer Research Fellowship Program IIT Ropar.
+* *Walmart Maverick Award*, for an associate who exhibits creativity at work and represents Walmart in well known forums as tech speaker. 
+* *Best Poster Award*, for Extracting text from product images organized @Walmart Labs, Bengaluru.
+* *Bronze Medal*🥉, [Humpback Whale Identification Challenge](https://www.kaggle.com/c/humpback-whale-identification),  Kaggle.
+* *Silver Medal*🥈, [Quora Insincere Questions Classification challenge](https://www.kaggle.com/c/quora-insincere-questions-classification), Kaggle.
+* *Spot Award*, recognition for exceptional performance, dedication & positive attitude on the job @Walmart Labs.
+* *Bronze Medal*, [Quick, Draw! Google Doodle Recognition challenge](https://www.kaggle.com/c/quickdraw-doodle-recognition), Kaggle.
+* *Top 1%*, WNS Analytics Wizard challenge hosted on Analytics Vidhya.
+* *Runner Up*, Walmart Global Hackathon.
+* *Silver Medal*🥈, [Toxic Comment classification challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge), Kaggle.
+* *Silver Medal*🥈, [IEEE’s Signal Processing Society - Camera Model Identification](https://www.kaggle.com/c/sp-society-camera-model-identification), Kaggle.
+* *Winner*, Synehack 201.7 Synechrone.
+* *Winner*, GE Health-Hack - Video analytics theme GE Healthcare.
+* *Summer Research Fellowship*, offered by IAS, IISc, INSA through Summer Research Fellowship Program IIT Ropar.
