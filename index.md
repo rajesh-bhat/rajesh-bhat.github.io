@@ -91,7 +91,7 @@ Topic: [Kaggle Journey and Approaching Kaggle Competitions](https://www.linkedin
 * [Mar. 2018] Conducted Deep Learning Workshop, @GE Healthcare, Bengaluru.
 
 ## Patents
-* **[US Patent, Walmart Ref.4909US01]** - *End to End Attribute Extraction from Product Images.* [Link](https://patentimages.storage.googleapis.com/64/f5/60/3c233403b7b163/US20190311210A1.pdf) 
+* **[US Patent, Walmart Ref.4909US01]** - *End to End Attribute Extraction from Product Images.* [Link](https://patents.google.com/patent/US20190311210A1/en) 
 * **[US Patent, Walmart Ref.4210US01]** - *In-store targeted advertisement system.* [Link](https://patents.google.com/patent/US20190378171A1/en) 
 * **[US Patent, Walmart Ref.5008US01]** - *Generating Customized Alerts with Computer Vision and Machine Learning.*
 * **[US Patent, Walmart Ref.5118US01]** - *System and Method For Automated Electronic Catalogue Management and Image Quality Assessment.*
