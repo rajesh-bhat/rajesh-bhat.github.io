@@ -1,13 +1,315 @@
----
----
+--- --- @import "{{ site.theme }}";
+// Color palette
+$primary-color: #2563eb;
+$secondary-color: #1e40af;
+$text-color: #1f2937;
+$text-light: #6b7280;
+$border-color: #e5e7eb;
+$bg-light: #f9fafb;
+$accent-color: #3b82f6;
 
-@import "{{ site.theme }}";
-
-footer {
-  display: none;
+// Override default fonts
+body {
+	font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+	color: $text-color;
+	line-height: 1.7;
+	font-size: 15px;
 }
 
-header li {
-	width: 270px;
-	height: auto;
+// Hide footer
+footer {
+	display: none;
+}
+
+// Header improvements
+header {
+	li {
+		width: 270px;
+		height: auto;
+	}
+
+	img {
+		border-radius: 50%;
+		border: 4px solid #fff;
+		box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+		transition: transform 0.3s ease;
+
+		&:hover {
+			transform: scale(1.05);
+		}
+	}
+
+	h1 {
+		font-weight: 700;
+		letter-spacing: -0.5px;
+
+		a {
+			color: $text-color;
+			text-decoration: none;
+
+			&:hover {
+				color: $primary-color;
+			}
+		}
+	}
+
+	p.view a {
+		color: $primary-color;
+		font-weight: 500;
+		text-decoration: none;
+		transition: color 0.2s ease;
+
+		&:hover {
+			color: $secondary-color;
+			text-decoration: underline;
+		}
+	}
+
+	// Social links styling
+	.social-links {
+		display: flex;
+		gap: 16px;
+		margin-top: 20px;
+		justify-content: center;
+
+		.social-link {
+			display: inline-flex;
+			align-items: center;
+			justify-content: center;
+			width: 40px;
+			height: 40px;
+			border-radius: 50%;
+			background-color: $bg-light;
+			color: $text-color;
+			text-decoration: none;
+			transition: all 0.3s ease;
+			font-size: 18px;
+
+			&:hover {
+				background-color: $primary-color;
+				color: #fff;
+				transform: translateY(-2px);
+				box-shadow: 0 4px 12px rgba($primary-color, 0.3);
+			}
+
+			i {
+				line-height: 1;
+			}
+		}
+	}
+}
+
+// Section styling
+section {
+	h2 {
+		color: $text-color;
+		font-size: 28px;
+		font-weight: 700;
+		margin-top: 48px;
+		margin-bottom: 24px;
+		padding-bottom: 12px;
+		border-bottom: 3px solid $primary-color;
+		letter-spacing: -0.5px;
+
+		&:first-child {
+			margin-top: 0;
+		}
+	}
+
+	h3 {
+		color: $text-color;
+		font-size: 20px;
+		font-weight: 600;
+		margin-top: 32px;
+		margin-bottom: 16px;
+		letter-spacing: -0.3px;
+
+		&::before {
+			content: "▸ ";
+			color: $primary-color;
+			font-weight: 700;
+		}
+	}
+
+	h4 {
+		color: $text-color;
+		font-size: 16px;
+		font-weight: 600;
+		margin-top: 20px;
+		margin-bottom: 12px;
+	}
+
+	// Improved list styling
+	ul {
+		margin-left: 0;
+		padding-left: 24px;
+
+		li {
+			margin-bottom: 12px;
+			line-height: 1.7;
+
+			&::marker {
+				color: $primary-color;
+				font-weight: 600;
+			}
+
+			// Nested lists
+			ul {
+				margin-top: 8px;
+				margin-bottom: 8px;
+
+				li {
+					margin-bottom: 8px;
+					font-size: 14px;
+					color: $text-light;
+				}
+			}
+		}
+	}
+
+	// Link styling
+	a {
+		color: $primary-color;
+		text-decoration: none;
+		font-weight: 500;
+		transition: all 0.2s ease;
+		border-bottom: 1px solid transparent;
+
+		&:hover {
+			color: $secondary-color;
+			border-bottom-color: $secondary-color;
+		}
+	}
+
+	// Strong/bold text
+	strong {
+		color: $text-color;
+		font-weight: 600;
+	}
+
+	// Emphasis/italic
+	em {
+		color: $text-light;
+		font-style: italic;
+	}
+
+	// Code styling
+	code {
+		background-color: $bg-light;
+		padding: 2px 6px;
+		border-radius: 4px;
+		font-family: 'Roboto Mono', monospace;
+		font-size: 13px;
+		color: #e11d48;
+	}
+
+	// Blockquote styling
+	blockquote {
+		border-left: 4px solid $primary-color;
+		padding-left: 20px;
+		margin-left: 0;
+		color: $text-light;
+		font-style: italic;
+		background-color: $bg-light;
+		padding: 16px 20px;
+		border-radius: 4px;
+	}
+
+	// Horizontal rule
+	hr {
+		border: 0;
+		height: 2px;
+		background: linear-gradient(to right, $primary-color, transparent);
+		margin: 32px 0;
+	}
+
+	// Paragraph spacing
+	p {
+		margin-bottom: 16px;
+		line-height: 1.7;
+	}
+}
+
+// Special styling for job titles and dates
+section strong {
+
+	&:contains("Staff Data Scientist"),
+	&:contains("Senior Data Scientist"),
+	&:contains("Data Scientist"),
+	&:contains("Software Engineer") {
+		color: $secondary-color;
+		font-size: 16px;
+	}
+}
+
+// Date styling in brackets
+section li {
+
+	// Style dates like [2024], [2023], etc.
+	&::first-line {
+		font-weight: 500;
+	}
+}
+
+// Improve spacing between major sections
+section>ul>li {
+	margin-bottom: 20px;
+}
+
+// Special styling for subsections (like "Towards Data Science")
+section h3+ul {
+	margin-top: 12px;
+
+	li {
+		margin-bottom: 10px;
+
+		a {
+			font-weight: 500;
+		}
+	}
+}
+
+// Responsive improvements
+@media (max-width: 960px) {
+	section {
+		h2 {
+			font-size: 24px;
+			margin-top: 36px;
+		}
+
+		h3 {
+			font-size: 18px;
+			margin-top: 24px;
+		}
+	}
+}
+
+@media print {
+	section {
+		h2 {
+			page-break-after: avoid;
+		}
+
+		ul li {
+			page-break-inside: avoid;
+		}
+	}
+}
+
+// Add smooth scrolling
+html {
+	scroll-behavior: smooth;
+}
+
+// Selection styling
+::selection {
+	background-color: rgba($primary-color, 0.2);
+	color: $text-color;
+}
+
+// Focus styles for accessibility
+a:focus,
+button:focus {
+	outline: 2px solid $primary-color;
+	outline-offset: 2px;
 }
