@@ -1,4 +1,7 @@
---- --- @import "{{ site.theme }}";
+---
+---
+
+@import "{{ site.theme }}";
 
 // Color palette
 $primary-color: #2563eb;
@@ -228,27 +231,6 @@ section {
 	p {
 		margin-bottom: 16px;
 		line-height: 1.7;
-	}
-}
-
-// Special styling for job titles and dates
-section strong {
-
-	&:contains("Staff Data Scientist"),
-	&:contains("Senior Data Scientist"),
-	&:contains("Data Scientist"),
-	&:contains("Software Engineer") {
-		color: $secondary-color;
-		font-size: 16px;
-	}
-}
-
-// Date styling in brackets
-section li {
-
-	// Style dates like [2024], [2023], etc.
-	&::first-line {
-		font-weight: 500;
 	}
 }
 
